@@ -1,2 +1,2 @@
-# Flow <img src="resources/icon.svg" width="50" height="50">
+# Flow <img src="resources/icon.svg" width="30" height="30">
 Flow is a DSL for formulating dataflows
