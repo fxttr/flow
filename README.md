@@ -1,2 +1,2 @@
-# Flow ![fa-crown](resources/icon.svg)
+# Flow ![icon](resources/icon.svg)
 Flow is a DSL for formulating dataflows
