@@ -1,0 +1,12 @@
+nix:
+  enable: false
+  packages:
+    - zlib
+system-ghc: true
+  
+resolver: lts-20.6
+
+packages:
+- .
+
+extra-deps: []
